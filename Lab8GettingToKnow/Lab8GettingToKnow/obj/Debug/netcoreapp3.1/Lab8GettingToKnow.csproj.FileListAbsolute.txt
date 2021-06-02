@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/bin/Debug/netcoreapp3.1/Lab8GettingToKnow.deps.json
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/bin/Debug/netcoreapp3.1/Lab8GettingToKnow.runtimeconfig.json
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/bin/Debug/netcoreapp3.1/Lab8GettingToKnow.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/bin/Debug/netcoreapp3.1/Lab8GettingToKnow.dll
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/bin/Debug/netcoreapp3.1/Lab8GettingToKnow.pdb
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.dll
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.pdb
+/Users/kevinjacksonii/Projects/Lab8GettingToKnow/Lab8GettingToKnow/obj/Debug/netcoreapp3.1/Lab8GettingToKnow.genruntimeconfig.cache
